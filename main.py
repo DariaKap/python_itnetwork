@@ -4,3 +4,4 @@ while A:
     a = A.pop()
     if a < min:
         min = a
+print(min)
